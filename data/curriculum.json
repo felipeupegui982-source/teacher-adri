@@ -1,0 +1,1151 @@
+[
+    {
+        "id": "mod_teacher_pri_eng_1",
+        "title": "Métodos Interactivos para Enseñar Inglés en Primaria",
+        "description": "Estrategias lúdicas y efectivas para niños de 4 a 12 años.",
+        "icon": "book-open",
+        "color": "primary",
+        "audience": "teacher",
+        "level": "primary",
+        "category": "english",
+        "courses": [
+            {
+                "id": "c_t_p_e_1_1",
+                "title": "Enseñanza lúdica del vocabulario por medio de juegos, canciones y flashcards.",
+                "description": "Juegos, canciones y flashcards.",
+                "duration": "45 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTENS INGLES/CURSO 1/Enseñanza lúdica del vocabulario por medio de juegos, canciones y flashcards.jpg"
+            },
+            {
+                "id": "c_t_p_e_1_2",
+                "title": "Técnicas para desarrollar la pronunciación y fluidez.",
+                "description": "Desarrollo de habilidades orales.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTENS INGLES/CURSO 1/Técnicas para desarrollar la pronunciación y fluidez..jpg"
+            },
+            {
+                "id": "c_t_p_e_1_3",
+                "title": "Actividades para mejorar la comprensión oral y escrita.",
+                "description": "Actividades para mejorar skills.",
+                "duration": "50 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTENS INGLES/CURSO 1/Actividades para mejorar la comprensión oral y escrita..jpg"
+            },
+            {
+                "id": "c_t_p_e_1_4",
+                "title": "Evaluación de estudiantes de Inglés como segunda lengua ¿Cómo evaluar el progreso?",
+                "description": "¿Cómo evaluar el progreso?",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTENS INGLES/CURSO 1/Evaluación de estudiantes de inglés como segunda lengua ¿Cómo evaluar el progreso.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_teacher_pri_eng_2",
+        "title": "Enseñanza del Inglés a Estudiantes Migrantes",
+        "description": "Adaptación y apoyo para niños en nuevos entornos.",
+        "icon": "globe",
+        "color": "secondary",
+        "audience": "teacher",
+        "level": "primary",
+        "category": "english",
+        "courses": [
+            {
+                "id": "c_t_p_e_2_1",
+                "title": "Identificación de necesidades de aprendizaje en niños migrantes.",
+                "description": "Identificación en niños migrantes.",
+                "duration": "30 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTENS INGLES/CURSO 2/Identificación de necesidades de aprendizaje en niños migrantes.jpg"
+            },
+            {
+                "id": "c_t_p_e_2_2",
+                "title": "Uso de imágenes y videos para facilitar la comprensión.",
+                "description": "Facilitar la comprensión visual.",
+                "duration": "25 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTENS INGLES/CURSO 2/Uso de imágenes y videos para facilitar la comprensión.jpg"
+            },
+            {
+                "id": "c_t_p_e_2_3",
+                "title": "Estrategias para integrar a los estudiantes en un aula multicultural.",
+                "description": "Estrategias de inclusión.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTENS INGLES/CURSO 2/Estrategias para integrar a los estudiantes en un aula multicultural.jpg"
+            },
+            {
+                "id": "c_t_p_e_2_4",
+                "title": "¿Cómo adaptar las evaluaciones a estudiantes con barreras lingüísticas?",
+                "description": "Adaptación de pruebas.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTENS INGLES/CURSO 2/¿Cómo adaptar las evaluaciones a estudiantes con barreras lingüísticas.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_teacher_pri_other_1",
+        "title": "Enseñanza de Ciencias y Matemáticas en Inglés",
+        "description": "Metodologías CLIL para primaria.",
+        "icon": "flask-conical",
+        "color": "accent",
+        "audience": "teacher",
+        "level": "primary",
+        "category": "other",
+        "courses": [
+            {
+                "id": "c_t_p_o_1_1",
+                "title": "Técnicas para enseñar ciencias y matemáticas en inglés.",
+                "description": "Enfoques efectivos en inglés.",
+                "duration": "45 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTES OTRAS ASIGNATURAS/CURSO 1/Técnicas para enseñar ciencias y matemáticas en inglés.jpg"
+            },
+            {
+                "id": "c_t_p_o_1_2",
+                "title": "Adaptación de recursos académicos para estudiantes de inglés.",
+                "description": "Materiales para estudiantes de inglés.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTES OTRAS ASIGNATURAS/CURSO 1/Adaptación de recursos académicos para estudiantes de inglés.jpg"
+            },
+            {
+                "id": "c_t_p_o_1_3",
+                "title": "¿Cómo superar las barreras lingüísticas en ciencias y matemáticas?",
+                "description": "Estrategias en ciencias y matemáticas.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTES OTRAS ASIGNATURAS/CURSO 1/¿Cómo superar las barreras lingüísticas en ciencias y matemáticas.jpg"
+            },
+            {
+                "id": "c_t_p_o_1_4",
+                "title": "Evaluación en ciencias y matemáticas en inglés.",
+                "description": "Medición del conocimiento en L2.",
+                "duration": "30 min",
+                "status": "locked",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTES OTRAS ASIGNATURAS/CURSO 1/Evaluación en ciencias y matemáticas en inglés.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_teacher_pri_other_2",
+        "title": "Enseñanza de Historia y Geografía en Inglés",
+        "description": "Ciencias sociales para niños bilingües.",
+        "icon": "map",
+        "color": "primary",
+        "audience": "teacher",
+        "level": "primary",
+        "category": "other",
+        "courses": [
+            {
+                "id": "c_t_p_o_2_1",
+                "title": "Estrategias para enseñar historia y geografía en inglés.",
+                "description": "Métodos de enseñanza.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTES OTRAS ASIGNATURAS/CURSO 2/Estrategias para enseñar historia y geografía en inglés.jpg"
+            },
+            {
+                "id": "c_t_p_o_2_2",
+                "title": "Uso de recursos visuales y multimedia para mejorar la comprensión.",
+                "description": "Mejorando la comprensión.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTES OTRAS ASIGNATURAS/CURSO 2/Uso de recursos visuales y multimedia para mejorar la comprensión.jpg"
+            },
+            {
+                "id": "c_t_p_o_2_3",
+                "title": "Adaptación de proyectos y tareas académicas para niños migrantes.",
+                "description": "Tareas para niños migrantes.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTES OTRAS ASIGNATURAS/CURSO 2/Adaptación de proyectos y tareas académicas para niños migrantes.jpg"
+            },
+            {
+                "id": "c_t_p_o_2_4",
+                "title": "Métodos para evaluar a estudiantes con barreras lingüísticas en ciencias sociales.",
+                "description": "Métodos para barreras lingüísticas.",
+                "duration": "30 min",
+                "status": "locked",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES PRIMARIA/DOCENTES OTRAS ASIGNATURAS/CURSO 2/Métodos para evaluar a estudiantes con barreras lingüísticas en ciencias sociales.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_teacher_sec_eng_1",
+        "title": "Estrategias Avanzadas en Inglés (Secundaria)",
+        "description": "Para adolescentes de 13 a 18 años.",
+        "icon": "graduation-cap",
+        "color": "secondary",
+        "audience": "teacher",
+        "level": "secondary",
+        "category": "english",
+        "courses": [
+            {
+                "id": "c_t_s_e_1_1",
+                "title": "Técnicas de enseñanza de gramática avanzada en inglés.",
+                "description": "Técnicas de enseñanza.",
+                "duration": "50 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE INGLES/CURSO 1/Técnica de enseñanza de gramática avanzada en inglés.jpg"
+            },
+            {
+                "id": "c_t_s_e_1_2",
+                "title": "Enseñanza de vocabulario académico para secundaria.",
+                "description": "Preparación para secundaria.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE INGLES/CURSO 1/Enseñanza de vocabulario académico para secundaria.jpg"
+            },
+            {
+                "id": "c_t_s_e_1_3",
+                "title": "¿Cómo desarrollar la comprensión lectora y la escritura académica?",
+                "description": "Desarrollo académico.",
+                "duration": "55 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE INGLES/CURSO 1/¿Cómo desarrollar la comprensión lectora y la escritura académica.jpg"
+            },
+            {
+                "id": "c_t_s_e_1_4",
+                "title": "Estrategias para preparar a los estudiantes para exámenes de inglés (TOEFL, IELTS).",
+                "description": "TOEFL, IELTS y más.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE INGLES/CURSO 1/Estrategias para preparar a los estudiantes para exámenes de inglés (TOEFL, IELTS.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_teacher_sec_eng_2",
+        "title": "Enseñanza del Inglés a Adolescentes Migrantes",
+        "description": "Apoyo específico para jóvenes.",
+        "icon": "users",
+        "color": "accent",
+        "audience": "teacher",
+        "level": "secondary",
+        "category": "english",
+        "courses": [
+            {
+                "id": "c_t_s_e_2_1",
+                "title": "Métodos para enseñar a adolescentes migrantes.",
+                "description": "Enfoques pedagógicos.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE INGLES/CURSO 2/Métodos para enseñar a adolescentes migrantes.jpg"
+            },
+            {
+                "id": "c_t_s_e_2_2",
+                "title": "Uso de tecnología para la enseñanza del inglés.",
+                "description": "Herramientas digitales.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE INGLES/CURSO 2/Uso de tecnología para la enseñanza del inglés.jpg"
+            },
+            {
+                "id": "c_t_s_e_2_3",
+                "title": "Apoyo emocional y social para adolescentes migrantes.",
+                "description": "Integración del adolescente.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE INGLES/CURSO 2/Apoyo emocional y social para adolescentes migrantes.jpg"
+            },
+            {
+                "id": "c_t_s_e_2_4",
+                "title": "Estrategias de evaluación para adolescentes migrantes que aprenden inglés.",
+                "description": "Medición justa del progreso.",
+                "duration": "30 min",
+                "status": "locked",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE INGLES/CURSO 2/Estrategias de evaluación para adolescentes migrantes que aprenden inglés.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_teacher_sec_other_1",
+        "title": "Ciencias y Matemáticas en Inglés (Secundaria)",
+        "description": "Enseñanza bilingüe avanzada.",
+        "icon": "calculator",
+        "color": "primary",
+        "audience": "teacher",
+        "level": "secondary",
+        "category": "other",
+        "courses": [
+            {
+                "id": "c_t_s_o_1_1",
+                "title": "¿Cómo enseñar ciencias y matemáticas en inglés de forma efectiva?",
+                "description": "Ciencias y matemáticas en inglés.",
+                "duration": "50 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE OTRAS ASIGNATURAS/CURSO 1/¿Cómo enseñar ciencias y matemáticas en inglés de forma efectiva.jpg"
+            },
+            {
+                "id": "c_t_s_o_1_2",
+                "title": "Técnicas para superar barreras lingüísticas en asignaturas académicas.",
+                "description": "Técnicas en asignaturas académicas.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE OTRAS ASIGNATURAS/CURSO 1/Técnicas para superar barreras lingüísticas en asignaturas académicas.jpg"
+            },
+            {
+                "id": "c_t_s_o_1_3",
+                "title": "Adaptación de recursos de ciencias y matemáticas para estudiantes migrantes.",
+                "description": "Materiales para migrantes.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE OTRAS ASIGNATURAS/CURSO 1/Adaptación de recursos de ciencias y matemáticas para estudiantes migrantes.jpg"
+            },
+            {
+                "id": "c_t_s_o_1_4",
+                "title": "Evaluación académica en ciencias y matemáticas en inglés.",
+                "description": "Pruebas en inglés.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE OTRAS ASIGNATURAS/CURSO 1/Evaluación académica en ciencias y matemáticas en inglés.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_teacher_sec_other_2",
+        "title": "Historia y Geografía en Inglés (Secundaria)",
+        "description": "Humanidades para adolescentes.",
+        "icon": "globe-2",
+        "color": "secondary",
+        "audience": "teacher",
+        "level": "secondary",
+        "category": "other",
+        "courses": [
+            {
+                "id": "c_t_s_o_2_1",
+                "title": "Estrategias para enseñar historia y geografía en inglés.",
+                "description": "Historia y geografía.",
+                "duration": "45 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE OTRAS ASIGNATURAS/CURSO 2/Estrategias para enseñar historia y geografía en inglés.jpg"
+            },
+            {
+                "id": "c_t_s_o_2_2",
+                "title": "Uso de materiales interactivos para enseñar historia y geografía.",
+                "description": "Uso de recursos.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE OTRAS ASIGNATURAS/CURSO 2/Uso de materiales interactivos para enseñar historia y geografía.jpg"
+            },
+            {
+                "id": "c_t_s_o_2_3",
+                "title": "Adaptación de proyectos y evaluaciones para estudiantes con barreras lingüísticas.",
+                "description": "Evaluaciones adaptadas.",
+                "duration": "50 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE OTRAS ASIGNATURAS/CURSO 2/Adaptación de proyectos y evaluaciones para estudiantes con barreras lingüísticas.jpg"
+            },
+            {
+                "id": "c_t_s_o_2_4",
+                "title": "Evaluación y adaptación de la enseñanza en historia y geografía para niños migrantes.",
+                "description": "Para niños migrantes.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO DOCENTES/DOCENTES SECUNDARIA/DOCENTES DE OTRAS ASIGNATURAS/CURSO 2/Evaluación y adaptación de la enseñanza en historia y geografía para niños migrantes.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_parent_child_eng_1",
+        "title": "Apoyo en el Aprendizaje del Inglés",
+        "description": "Para padres de niños de 4 a 12 años.",
+        "icon": "book-open",
+        "color": "primary",
+        "audience": "parent",
+        "level": "child",
+        "category": "academic",
+        "courses": [
+            {
+                "id": "c_p_c_e_1_1",
+                "title": "Apoyo en el aprendizaje en casa",
+                "description": "Vocabulario, pronunciación y escritura.",
+                "content": "Estrategias para ayudar a los niños con el vocabulario, la pronunciación y la escritura. Actividades prácticas que los padres pueden hacer con los niños (juegos, lectura en voz alta, etc.).",
+                "dynamic": "Ejercicios de vocabulario básico, actividades de lectura conjunta, juegos de memoria.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 1/¿Cómo apoyar a tu hijo en aprendizaje de inglés en casa.jpg"
+            },
+            {
+                "id": "c_p_c_e_1_2",
+                "title": "Ambiente de aprendizaje positivo",
+                "description": "Organización y rutinas de estudio.",
+                "content": "¿Cómo organizar un espacio de estudio adecuado? Establecer una rutina de estudio para los niños y cómo motivarlos.",
+                "dynamic": "Creación de un ambiente de aprendizaje en casa: organización del espacio, horarios.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 1/Crear un ambiente de aprendizaje positivo en casa.jpg"
+            },
+            {
+                "id": "c_p_c_e_1_3",
+                "title": "Comprensión lectora y escritura",
+                "description": "Lectura conjunta y juegos.",
+                "content": "Estrategias para leer y escribir en inglés con los niños, técnicas para mejorar la comprensión lectora. Actividades de escritura y lectura para mejorar el inglés.",
+                "dynamic": "Lectura de libros en inglés adaptados, juegos de preguntas sobre lo leído, ejercicios de escritura conjunta.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 1/Fomentando la comprensión lectora y escritura en inglés.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_parent_child_emo_1",
+        "title": "Reconociendo Barreras Emocionales y Culturales",
+        "description": "Apoyo emocional para niños migrantes.",
+        "icon": "heart",
+        "color": "secondary",
+        "audience": "parent",
+        "level": "child",
+        "category": "emotional",
+        "courses": [
+            {
+                "id": "c_p_c_em_1_1",
+                "title": "Estrés y ansiedad en niños",
+                "description": "Reconocer señales y manejo.",
+                "content": "Señales de estrés y ansiedad debido al cambio cultural y el aprendizaje de un nuevo idioma. ¿Cómo identificar si un niño está teniendo dificultades emocionales o psicológicas?",
+                "dynamic": "Análisis de situaciones comunes de estrés en niños migrantes y cómo manejarlas.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 2/¿Cómo reconocer el estrés y la ansiedad en tú hijo migrante.jpg"
+            },
+            {
+                "id": "c_p_c_em_1_2",
+                "title": "Apoyo emocional en la adaptación",
+                "description": "Manejo de frustración y autoestima.",
+                "content": "Estrategias para ayudar a los niños a manejar la frustración y la ansiedad relacionadas con el cambio cultural. Actividades para fomentar la autoestima y el sentido de pertenencia.",
+                "dynamic": "Técnicas de conversación, juegos de integración cultural y actividades de reflexión.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 2/Como apoyar exitosamente a tu hijo durante la adaptación.jpg"
+            },
+            {
+                "id": "c_p_c_em_1_3",
+                "title": "Autoestima y confianza",
+                "description": "Reforzar identidad cultural.",
+                "content": "¿Cómo ayudar a los niños a sentirse bien consigo mismos, incluso cuando están en un entorno desconocido? Actividades para reforzar la identidad cultural y la autoestima.",
+                "dynamic": "Actividades de afirmación positiva, juegos sobre lo que los niños más valoran de sí mismos.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 2/Fomentando la autoestima y la confianza en el niño migrante.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_parent_child_school_1",
+        "title": "Involucrándose en la Vida Escolar",
+        "description": "Relación con la escuela y docentes.",
+        "icon": "school",
+        "color": "accent",
+        "audience": "parent",
+        "level": "child",
+        "category": "school_life",
+        "courses": [
+            {
+                "id": "c_p_c_s_1_1",
+                "title": "Apoyo escolar y docentes",
+                "description": "Comunicación efectiva.",
+                "content": "Estrategias para involucrarse activamente en la vida escolar del niño. ¿Cómo establecer una buena comunicación con los maestros y el personal escolar?",
+                "dynamic": "Role-playing de reuniones con los docentes, redacción de correos y preguntas para los maestros.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 3/Involucrandose en la vida escolar de su hijo.jpg"
+            },
+            {
+                "id": "c_p_c_s_1_2",
+                "title": "Tareas y nivelación académica",
+                "description": "Refuerzo en casa.",
+                "content": "¿Cómo ayudar a los niños a completar sus tareas escolares, especialmente las que implican aprendizaje en inglés? Técnicas de apoyo para reforzar lo aprendido en la escuela.",
+                "dynamic": "Actividades de apoyo académico en casa, como juegos de matemáticas, ciencias y lectura en inglés.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 3/Apoyo en las tareas escolares y nivelación académica.jpg"
+            },
+            {
+                "id": "c_p_c_s_1_3",
+                "title": "Plan de estudio en casa",
+                "description": "Estructura y horarios.",
+                "content": "¿Cómo estructurar el tiempo de estudio en casa de acuerdo a las necesidades del niño? Métodos de refuerzo en las áreas donde el niño está teniendo dificultades.",
+                "dynamic": "Elaboración de un horario de estudio semanal adaptado a las necesidades del niño, con ayuda de recursos en inglés.",
+                "duration": "30 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE NINOS DE 4 A 12 ANOS/CURSO 3/Creando un plan de estudio en casa para el niño migrante.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_parent_teen_acad_1",
+        "title": "Apoyo Académico para Adolescentes",
+        "description": "Para padres de jóvenes de 13 a 18 años.",
+        "icon": "graduation-cap",
+        "color": "primary",
+        "audience": "parent",
+        "level": "teen",
+        "category": "academic",
+        "courses": [
+            {
+                "id": "c_p_t_a_1_1",
+                "title": "Preparación de exámenes",
+                "description": "TOEFL, IELTS y técnicas de estudio.",
+                "content": "Ayudar a los adolescentes a prepararse para exámenes importantes como el TOEFL o el IELTS. Técnicas de estudio y refuerzo en inglés para materias académicas.",
+                "dynamic": "Preparación de exámenes, juegos de preguntas y respuestas, simulacros de examen.",
+                "duration": "45 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 1/Estrategias para apoyar la preparación de exámenes en inglés.jpg"
+            },
+            {
+                "id": "c_p_t_a_1_2",
+                "title": "Lectura y escritura académica",
+                "description": "Ensayos y textos académicos.",
+                "content": "Estrategias para fomentar la lectura de libros, artículos y textos académicos. Actividades para mejorar la redacción de ensayos y trabajos en inglés.",
+                "dynamic": "Ejercicios de escritura creativa y análisis de textos académicos en inglés.",
+                "duration": "50 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 1/¿Cómo fomentar la lectura y escritura académica en inglés.jpg"
+            },
+            {
+                "id": "c_p_t_a_1_3",
+                "title": "Apoyo en tareas de secundaria",
+                "description": "Matemáticas, ciencias e historia.",
+                "content": "Técnicas para ayudar a los adolescentes con tareas escolares complicadas, especialmente las que involucren el uso del inglés. Cómo ayudar con materias como matemáticas, ciencias e historia en inglés.",
+                "dynamic": "Actividades de apoyo con problemas académicos, sesiones de lectura y resolución de problemas.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 1/¿Cómo apoyar a tu hijo en las tareas de la escuela secundaria.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_parent_teen_emo_1",
+        "title": "Apoyo Psicológico para Adolescentes",
+        "description": "Salud mental en la migración.",
+        "icon": "users",
+        "color": "secondary",
+        "audience": "parent",
+        "level": "teen",
+        "category": "emotional",
+        "courses": [
+            {
+                "id": "c_p_t_e_1_1",
+                "title": "Estrés y ansiedad en adolescentes",
+                "description": "Identificación y apoyo.",
+                "content": "¿Cómo reconocer las señales de estrés, ansiedad o depresión en adolescentes migrantes? Estrategias de apoyo emocional para adolescentes en proceso de adaptación cultural.",
+                "dynamic": "Talleres sobre cómo hablar con los adolescentes acerca de sus emociones y experiencias.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 2/Identificando señales de estrés y ansiedad en adolescentes.jpg"
+            },
+            {
+                "id": "c_p_t_e_1_2",
+                "title": "Ansiedad social y escolar",
+                "description": "Integración y autoaceptación.",
+                "content": "Estrategias para reducir la ansiedad de los adolescentes por el cambio escolar y la integración social. Técnicas para fomentar la autoaceptación y fortalecer la identidad cultural.",
+                "dynamic": "Actividades de confianza, discusiones sobre la integración social y la adaptación cultural.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 2/¿Cómo ayudar a tu adolescente a superar la ansiedad social y escolar.jpg"
+            },
+            {
+                "id": "c_p_t_e_1_3",
+                "title": "Autoestima e identidad cultural",
+                "description": "Sentido de pertenencia.",
+                "content": "Ayudar a los adolescentes a mantener su identidad cultural mientras se adaptan a la cultura estadounidense. Actividades para fomentar la autoestima y el sentido de pertenencia en un entorno nuevo.",
+                "dynamic": "Talleres de identidad cultural, actividades de empoderamiento para adolescentes.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 2/Fortaleciendo la autoestima y la identidad cultural en adolescentes.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_parent_teen_future_1",
+        "title": "Futuro Profesional del Adolescente",
+        "description": "Universidad y carrera.",
+        "icon": "briefcase",
+        "color": "accent",
+        "audience": "parent",
+        "level": "teen",
+        "category": "future",
+        "courses": [
+            {
+                "id": "c_p_t_f_1_1",
+                "title": "Universidad y futuro profesional",
+                "description": "Planificación y becas.",
+                "content": "Estrategias para apoyar a los adolescentes en la planificación de su educación superior. ¿Cómo ayudar a tu hijo a preparar solicitudes de becas, entrevistas y ensayos en inglés?",
+                "dynamic": "Simulaciones de entrevistas universitarias, revisión de solicitudes.",
+                "duration": "50 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 3/¿Cómo preparar a tu adolescente para la universidad y el futuro profesional.jpg"
+            },
+            {
+                "id": "c_p_t_f_1_2",
+                "title": "Elección de carrera",
+                "description": "Orientación vocacional.",
+                "content": "Orientación vocacional: cómo ayudar a los adolescentes a tomar decisiones sobre su futuro profesional. Recursos para explorar opciones de carrera y estudiar en el extranjero.",
+                "dynamic": "Actividades de reflexión sobre intereses personales y profesionales, preparación de CV.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 3/¿Cómo guiar a tu hijo en la elección de carrera.jpg"
+            },
+            {
+                "id": "c_p_t_f_1_3",
+                "title": "Expectativas familiares y personales",
+                "description": "Equilibrio y apoyo a metas.",
+                "content": "¿Cómo equilibrar las expectativas culturales familiares con los intereses y deseos personales del adolescente? Estrategias para apoyar las metas de vida de tu hijo mientras se respeta su identidad.",
+                "dynamic": "Conversaciones sobre expectativas y metas a largo plazo, trabajo en equipo en familia.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO PADRES/PADRES DE ADOLESCENTES DE 13 A 18 ANOS/CURSO 3/¿Cómo manejar las expectativas familiares y personales de tu adolescente.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_4_6_eng_1",
+        "title": "Inglés Básico y Adaptación (4-6 años)",
+        "description": "Primeros pasos en inglés y cultura.",
+        "icon": "star",
+        "color": "primary",
+        "audience": "student",
+        "level": "4-6",
+        "category": "english",
+        "courses": [
+            {
+                "id": "c_s_4_6_e_1_1",
+                "title": "Primeras Palabras y Frases",
+                "description": "Saludos, colores, animales.",
+                "content": "Vocabulario básico (saludos, colores, animales, números, partes del cuerpo). Juegos interactivos con flashcards. Canciones simples en inglés.",
+                "dynamic": "Repetir palabras y frases a través de juegos y canciones. Introducción a sonidos del inglés con juegos de imitación.",
+                "duration": "20 min",
+                "status": "active",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS 4 A 6 ANOS/CURSO 1/Primeras palabras y frases en inglés.jpg"
+            },
+            {
+                "id": "c_s_4_6_e_1_2",
+                "title": "Lectura y Escritura Básica",
+                "description": "Alfabeto y trazado.",
+                "content": "Aprender el alfabeto en inglés y cómo escribir su nombre. Identificación de letras y sonidos. Trazado de letras y palabras simples.",
+                "dynamic": "Juegos de trazado de letras, recorte y pegado de imágenes que representen palabras.",
+                "duration": "25 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS 4 A 6 ANOS/CURSO 1/Introducción a la Lectura y Escritura Básica en Inglés.jpg"
+            },
+            {
+                "id": "c_s_4_6_e_1_3",
+                "title": "Vocabulario Cotidiano",
+                "description": "Objetos de casa y escuela.",
+                "content": "Nombres de objetos comunes (juguetes, muebles, alimentos). Vocabulario de la escuela (mochila, lápiz, libro).",
+                "dynamic": "Flashcards con imágenes, juegos de señalar objetos en la clase o en casa.",
+                "duration": "20 min",
+                "status": "locked",
+                "type": "vocabulary",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS 4 A 6 ANOS/CURSO 1/Vocabulario Básico de la Vida Cotidiana.jpg"
+            },
+            {
+                "id": "c_s_4_6_e_1_4",
+                "title": "Adaptación Cultural y Emocional",
+                "description": "Costumbres y tradiciones.",
+                "content": "Introducción a costumbres y tradiciones estadounidenses (Navidad, Halloween). Hablar sobre lo que les gusta de su cultura y lo que les gustaría aprender del nuevo entorno.",
+                "dynamic": "Actividades de dibujo sobre cosas que les gustan de su cultura y cosas nuevas que quieren aprender.",
+                "duration": "30 min",
+                "status": "locked",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS 4 A 6 ANOS/CURSO 1/Adaptación cultural y emocional.jpg"
+            },
+            {
+                "id": "c_s_4_6_e_1_5",
+                "title": "Reconociendo Emociones",
+                "description": "Expresar feliz, triste, miedo.",
+                "content": "Identificación de emociones básicas (feliz, triste, miedo). Cómo hablar de lo que sienten y cómo pedir ayuda.",
+                "dynamic": "Juegos de tarjetas emocionales, actividades de dibujo para expresar lo que sienten.",
+                "duration": "25 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS 4 A 6 ANOS/CURSO 1/Reconociendo y reconociendo emociones.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_4_6_lit_1",
+        "title": "Lectura y Escritura Creativa (4-6 años)",
+        "description": "Cuentos y habilidades básicas.",
+        "icon": "book",
+        "color": "secondary",
+        "audience": "student",
+        "level": "4-6",
+        "category": "academic",
+        "courses": [
+            {
+                "id": "c_s_4_6_l_1_1",
+                "title": "Lectura de Cuentos",
+                "description": "Historias sencillas con imágenes.",
+                "content": "Lectura de cuentos sencillos con imágenes, como 'The Very Hungry Caterpillar'. Identificación de personajes y eventos.",
+                "dynamic": "Leer juntos, responder preguntas sobre los cuentos (¿Qué hizo el animal? ¿Cómo se sentía?).",
+                "duration": "30 min",
+                "status": "active",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS 4 A 6 ANOS/CURSO 3/Introducción a la Lectura de Cuentos en Inglés.jpg"
+            },
+            {
+                "id": "c_s_4_6_l_1_2",
+                "title": "Habilidades de Escritura",
+                "description": "Trazar letras y palabras simples.",
+                "content": "Aprender a escribir palabras simples: Su nombre, colores, objetos.",
+                "dynamic": "Trazar letras y palabras con diferentes materiales.",
+                "duration": "25 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS 4 A 6 ANOS/CURSO 3/Habilidades básicas de escritura.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_7_10_eng_1",
+        "title": "Inglés y Adaptación (7-10 años)",
+        "description": "Conversación y cultura.",
+        "icon": "message-circle",
+        "color": "primary",
+        "audience": "student",
+        "level": "7-10",
+        "category": "english",
+        "courses": [
+            {
+                "id": "c_s_7_10_e_1_1",
+                "title": "Conversaciones Cortas",
+                "description": "Diálogos cotidianos.",
+                "content": "Practicar conversaciones sobre temas cotidianos: ir al parque, ir a la tienda.",
+                "dynamic": "Juegos de rol y diálogos en clase.",
+                "duration": "30 min",
+                "status": "active",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 1/Conversaciones cortas y comprensión de textos.jpg"
+            },
+            {
+                "id": "c_s_7_10_e_1_2",
+                "title": "Adaptación Cultural",
+                "description": "Diferencias culturales y festividades.",
+                "content": "Comprensión de las diferencias culturales: comidas, festividades, juegos.",
+                "dynamic": "Proyecto de comparación cultural: ¿Cómo celebran los niños en su país y en EE.UU.?",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 1/Adaptación cultural y emocional.jpg"
+            },
+            {
+                "id": "c_s_7_10_e_1_3",
+                "title": "Manejo del Estrés",
+                "description": "Técnicas para la nueva escuela.",
+                "content": "Técnicas para manejar el estrés de adaptarse a una nueva escuela y cultura.",
+                "dynamic": "Ejercicios de respiración, meditación guiada, juegos para relajar la mente.",
+                "duration": "25 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 1/Manejo del estrés y ansiedad por el cambio.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_7_10_emo_1",
+        "title": "Apoyo Emocional (7-10 años)",
+        "description": "Confianza y adaptación social.",
+        "icon": "heart",
+        "color": "secondary",
+        "audience": "student",
+        "level": "7-10",
+        "category": "emotional",
+        "courses": [
+            {
+                "id": "c_s_7_10_em_1_1",
+                "title": "Afrontando el Miedo",
+                "description": "Manejo de ansiedad.",
+                "content": "Cómo manejar el miedo y la ansiedad de estar en un nuevo entorno.",
+                "dynamic": "Técnicas de relajación, actividades de visualización.",
+                "duration": "30 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 2/Afrontando el miedo y la ansiedad.jpg"
+            },
+            {
+                "id": "c_s_7_10_em_1_2",
+                "title": "Construyendo Autoestima",
+                "description": "Sentirse seguro de sí mismo.",
+                "content": "Actividades para ayudar a los niños a sentirse seguros de sí mismos.",
+                "dynamic": "Juegos de cooperación, reflexiones sobre lo que los hace únicos.",
+                "duration": "35 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 2/Construyendo autoestima y confianza.jpg"
+            },
+            {
+                "id": "c_s_7_10_em_1_3",
+                "title": "Adaptación Social",
+                "description": "Hacer amigos en la escuela.",
+                "content": "Cómo hacer nuevos amigos, aprender a comunicar y participar en clase.",
+                "dynamic": "Role-playing y juegos de integración grupal.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 2/Adaptación social y cultural en la escuela.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_7_10_acad_1",
+        "title": "Nivelación Académica (7-10 años)",
+        "description": "Matemáticas y ciencias en inglés.",
+        "icon": "book-open",
+        "color": "accent",
+        "audience": "student",
+        "level": "7-10",
+        "category": "academic",
+        "courses": [
+            {
+                "id": "c_s_7_10_a_1_1",
+                "title": "Matemáticas en Inglés",
+                "description": "Números y operaciones básicas.",
+                "content": "Números, operaciones básicas, unidades de medida.",
+                "dynamic": "Problemas matemáticos simples usando material visual.",
+                "duration": "35 min",
+                "status": "active",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 3/Introducción a las matemáticas en inglés.jpg"
+            },
+            {
+                "id": "c_s_7_10_a_1_2",
+                "title": "Comprensión Lectora",
+                "description": "Lectura y redacción básica.",
+                "content": "Lectura de párrafos y comprensión. Redacción de oraciones completas.",
+                "dynamic": "Lecturas con preguntas de comprensión, ejercicios de escritura.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 3/Comprensión lectora y escritura.jpg"
+            },
+            {
+                "id": "c_s_7_10_a_1_3",
+                "title": "Ciencia en Inglés",
+                "description": "Vocabulario de ciencias.",
+                "content": "Vocabulario básico de ciencias (plantas, animales, el clima).",
+                "dynamic": "Experimentos simples y discusiones sobre temas de ciencia.",
+                "duration": "30 min",
+                "status": "locked",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 7 A 10 ANOS/CURSO 3/Introducción a la Ciencia en inglés.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_11_13_eng_1",
+        "title": "Inglés y Cultura (11-13 años)",
+        "description": "Adaptación para pre-adolescentes.",
+        "icon": "globe",
+        "color": "primary",
+        "audience": "student",
+        "level": "11-13",
+        "category": "english",
+        "courses": [
+            {
+                "id": "c_s_11_13_e_1_1",
+                "title": "Adaptación Cultural",
+                "description": "Costumbres e identidad.",
+                "content": "Comprensión de las diferencias culturales en la escuela y la comunidad. Cómo adaptarse a nuevas costumbres sin perder la identidad cultural.",
+                "dynamic": "Juegos de integración cultural, debates sobre diferencias y similitudes culturales, actividades de reflexión.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 11 A 13 ANOS/CURSO 1/Adaptación cultural para pre-adolescentes.jpg"
+            },
+            {
+                "id": "c_s_11_13_e_1_2",
+                "title": "Adaptación Emocional",
+                "description": "Manejo de ansiedad escolar.",
+                "content": "Cómo manejar la ansiedad por el cambio de escuela y la integración social. Estrategias para adaptarse al nuevo entorno escolar y cultural.",
+                "dynamic": "Juegos de roles, actividades de confianza en grupo, discusiones grupales.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 11 A 13 ANOS/CURSO 1/Adaptación emocional y social.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_11_13_emo_1",
+        "title": "Apoyo Emocional (11-13 años)",
+        "description": "Autoestima e integración.",
+        "icon": "smile",
+        "color": "secondary",
+        "audience": "student",
+        "level": "11-13",
+        "category": "emotional",
+        "courses": [
+            {
+                "id": "c_s_11_13_em_1_1",
+                "title": "Miedo y Ansiedad",
+                "description": "Técnicas de manejo.",
+                "content": "Técnicas para manejar la ansiedad relacionada con la adaptación a un nuevo entorno. Cómo enfrentar el miedo al rechazo por las diferencias culturales y lingüísticas.",
+                "dynamic": "Ejercicios de relajación y mindfulness, visualización, y ejercicios de respiración.",
+                "duration": "35 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 11 A 13 ANOS/CURSO 2/Afrontando el miedo y la ansiedad de la adolescencia.jpg"
+            },
+            {
+                "id": "c_s_11_13_em_1_2",
+                "title": "Desarrollo de Autoestima",
+                "description": "Identidad cultural.",
+                "content": "Refuerzo de la identidad cultural y autoestima en un contexto de migración. Actividades para ayudar a los niños a sentirse cómodos con sus diferencias.",
+                "dynamic": "Juegos de afirmaciones positivas, actividades de reflexión sobre la identidad y lo que les gusta de sí mismos.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 11 A 13 ANOS/CURSO 2/Desarrollo del autoestima en la adolescencia.jpg"
+            },
+            {
+                "id": "c_s_11_13_em_1_3",
+                "title": "Integración Social",
+                "description": "Amistades y bullying.",
+                "content": "Cómo crear nuevas amistades y relaciones en un entorno nuevo. Técnicas para enfrentar situaciones difíciles como el bullying y el aislamiento social.",
+                "dynamic": "Dinámicas de integración social, actividades en grupo para fomentar la cooperación.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 11 A 13 ANOS/CURSO 2/Estrategias de integración social en la escuela.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_11_13_acad_1",
+        "title": "Nivelación Académica (11-13 años)",
+        "description": "Inglés para la escuela.",
+        "icon": "pen-tool",
+        "color": "accent",
+        "audience": "student",
+        "level": "11-13",
+        "category": "academic",
+        "courses": [
+            {
+                "id": "c_s_11_13_a_1_1",
+                "title": "Vocabulario Académico",
+                "description": "Terminología específica.",
+                "content": "Vocabulario de materias específicas como matemáticas, ciencias y estudios sociales. Introducción al vocabulario técnico que usan los profesores en inglés.",
+                "dynamic": "Ejercicios prácticos con textos académicos, juegos de palabras y frases.",
+                "duration": "40 min",
+                "status": "active",
+                "type": "vocabulary",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 11 A 13 ANOS/CURSO 3/Vocabulario académico y terminología específica.jpg"
+            },
+            {
+                "id": "c_s_11_13_a_1_2",
+                "title": "Comprensión Lectora",
+                "description": "Textos complejos y resúmenes.",
+                "content": "Lectura de textos más complejos (historias, artículos y pasajes de libros). Redacción de resúmenes y respuestas completas en inglés.",
+                "dynamic": "Análisis de textos, actividades de escritura creativa y analítica.",
+                "duration": "50 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 11 A 13 ANOS/CURSO 3/Mejorando la comprensión lectora y escritura.jpg"
+            },
+            {
+                "id": "c_s_11_13_a_1_3",
+                "title": "Aplicación en Materias",
+                "description": "Ciencias y matemáticas.",
+                "content": "Reforzamiento de habilidades en ciencias, matemáticas y otras asignaturas en inglés. Uso del inglés para resolver problemas y responder preguntas en esas áreas.",
+                "dynamic": "Ejercicios de resolución de problemas, proyectos prácticos en inglés.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 11 A 13 ANOS/CURSO 3/Aplicación de inglés en las materias escolares.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_14_18_eng_1",
+        "title": "Inglés Académico Avanzado (14-18 años)",
+        "description": "Preparación para el futuro.",
+        "icon": "award",
+        "color": "primary",
+        "audience": "student",
+        "level": "14-18",
+        "category": "english",
+        "courses": [
+            {
+                "id": "c_s_14_18_e_1_1",
+                "title": "Preparación TOEFL/IELTS",
+                "description": "Estrategias de examen.",
+                "content": "Preparación para exámenes de inglés como TOEFL y IELTS. Estrategias para mejorar el listening, reading, speaking y writing en los exámenes.",
+                "dynamic": "Simulaciones de exámenes, ejercicios de escritura y lectura.",
+                "duration": "60 min",
+                "status": "active",
+                "type": "quiz",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 1/Inglés profesional y preparación para el futuro.jpg"
+            },
+            {
+                "id": "c_s_14_18_e_1_2",
+                "title": "Inglés para Ciencias",
+                "description": "Vocabulario técnico avanzado.",
+                "content": "Vocabulario técnico avanzado para las materias escolares en inglés (física, química, álgebra, etc.). Comprensión de textos científicos y matemáticos complejos.",
+                "dynamic": "Lectura y análisis de artículos académicos, resolución de problemas matemáticos en inglés.",
+                "duration": "55 min",
+                "status": "locked",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 1/Inglés académico avanzado para ciencias y matemáticas.jpg"
+            },
+            {
+                "id": "c_s_14_18_e_1_3",
+                "title": "Inglés Profesional",
+                "description": "Entrevistas y CV.",
+                "content": "Vocabulario y expresiones para el futuro académico y profesional (escribir ensayos, participar en entrevistas, etc.). Estrategias de comunicación efectiva en inglés.",
+                "dynamic": "Role-playing de entrevistas de trabajo, redacción de cartas de motivación y CV en inglés.",
+                "duration": "50 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 1/Inglés profesional y preparación para el futuro.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_14_18_emo_1",
+        "title": "Adaptación y Apoyo (14-18 años)",
+        "description": "Identidad y bienestar.",
+        "icon": "user-check",
+        "color": "secondary",
+        "audience": "student",
+        "level": "14-18",
+        "category": "emotional",
+        "courses": [
+            {
+                "id": "c_s_14_18_em_1_1",
+                "title": "Adaptación Cultural",
+                "description": "Identidad en nuevo país.",
+                "content": "Reflexión sobre la identidad cultural y cómo adaptarse a la vida en un nuevo país sin perder lo propio. Cómo entender y gestionar las diferencias culturales.",
+                "dynamic": "Conversaciones sobre diferencias culturales, reflexiones sobre sus vivencias.",
+                "duration": "45 min",
+                "status": "active",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 2/Adaptación cultural en la adolescencia.jpg"
+            },
+            {
+                "id": "c_s_14_18_em_1_2",
+                "title": "Manejo del Estrés",
+                "description": "Mindfulness y relajación.",
+                "content": "Técnicas de relajación, mindfulness y manejo del estrés relacionado con el cambio cultural y escolar. Cómo afrontar situaciones difíciles en la escuela (bullying, estrés académico).",
+                "dynamic": "Talleres prácticos de relajación, técnicas de mindfulness, simulaciones de escenarios estresantes.",
+                "duration": "40 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 2/Manejo del estrés y ansiedad en la adolescencia.jpg"
+            },
+            {
+                "id": "c_s_14_18_em_1_3",
+                "title": "Autoestima y Pertenencia",
+                "description": "Construcción de identidad.",
+                "content": "Estrategias para construir una identidad positiva en un entorno culturalmente diverso. Fomentar la autoestima y el sentido de pertenencia en la comunidad escolar.",
+                "dynamic": "Reflexiones grupales sobre lo que hace única su identidad, actividades de empoderamiento.",
+                "duration": "45 min",
+                "status": "locked",
+                "type": "roleplay",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 2/Construcción del autoestima y sentido de pertenencia.jpg"
+            }
+        ]
+    },
+    {
+        "id": "mod_std_14_18_acad_1",
+        "title": "Nivelación Académica Avanzada (14-18 años)",
+        "description": "Excelencia académica.",
+        "icon": "trending-up",
+        "color": "accent",
+        "audience": "student",
+        "level": "14-18",
+        "category": "academic",
+        "courses": [
+            {
+                "id": "c_s_14_18_a_1_1",
+                "title": "Ciencias Avanzadas",
+                "description": "Biología, química, física.",
+                "content": "Vocabulario técnico de ciencias (biología, química) y matemáticas (álgebra, geometría). Análisis de textos académicos y resolución de problemas en inglés.",
+                "dynamic": "Lectura de textos científicos, resolución de problemas en inglés.",
+                "duration": "55 min",
+                "status": "active",
+                "type": "reading",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 3/Inglés avanzado para ciencias y matemáticas.jpg"
+            },
+            {
+                "id": "c_s_14_18_a_1_2",
+                "title": "Escritura Académica",
+                "description": "Ensayos y argumentación.",
+                "content": "Redacción de ensayos académicos en inglés, estructura y organización de ideas. Técnicas de escritura argumentativa y crítica.",
+                "dynamic": "Redacción de ensayos, retroalimentación entre compañeros.",
+                "duration": "60 min",
+                "status": "locked",
+                "type": "interactive",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 3/Escritura académica avanzada y redacción de ensayos.jpg"
+            },
+            {
+                "id": "c_s_14_18_a_1_3",
+                "title": "Futuro Universitario",
+                "description": "Admisiones y cartas.",
+                "content": "Inglés para entrevistas laborales, universidades, y exámenes de admisión. Estrategias para crear un CV y una carta de motivación en inglés.",
+                "dynamic": "Role-playing de entrevistas de trabajo y simulaciones de exámenes universitarios.",
+                "duration": "50 min",
+                "status": "locked",
+                "type": "video",
+                "image": "IMAGENES PAGINA/CURSO NIÑOS/NINOS DE 14 A 18 ANOS/CURSO 3/Inglés para el futuro profesional y universitario.jpg"
+            }
+        ]
+    }
+]

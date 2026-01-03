@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Adri</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#694673',   // Purple
+                        secondary: '#ADD9C9', // Mint
+                        accent: '#F2C299',    // Peach
+                        dark: '#261414',      // Dark Brown/Black
+                        light: '#F2F2F2',     // Light Gray
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        .animate-blob { animation: blob 7s infinite; }
+        .animation-delay-2000 { animation-delay: 2s; }
+        .animation-delay-4000 { animation-delay: 4s; }
+        @keyframes blob {
+            0% { transform: translate(0px, 0px) scale(1); }
+            33% { transform: translate(30px, -50px) scale(1.1); }
+            66% { transform: translate(-20px, 20px) scale(0.9); }
+            100% { transform: translate(0px, 0px) scale(1); }
+        }
+    </style>
+</head>
+<body class="min-h-screen bg-light font-sans text-dark">
+    <header class="sticky top-0 z-50 w-full border-b border-gray-200 bg-white/90 backdrop-blur-md">
+        <div class="container mx-auto px-4 h-16 flex items-center justify-between">
+            <a href="index.html" class="flex items-center gap-2">
+                <div class="bg-primary p-2 rounded-lg text-white">
+                    <i data-lucide="book-open" width="24" height="24"></i>
+                </div>
+                <span class="text-xl font-bold text-primary">
+                    Teacher Adri
+                </span>
+            </a>
+
+            <nav class="flex items-center gap-4">
+                <a href="index.html#about" class="text-sm font-medium text-dark hover:text-primary transition-colors hidden md:block">
+                    Quiénes somos
+                </a>
+                <a href="login.html" class="inline-flex items-center justify-center rounded-xl font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none bg-transparent hover:bg-secondary/20 text-dark text-sm px-4 py-2">
+                    Iniciar Sesión
+                </a>
+                <a href="register.html" class="inline-flex items-center justify-center rounded-xl font-bold transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none bg-primary text-white hover:bg-primary/90 focus:ring-primary text-sm px-4 py-2 shadow-lg shadow-primary/20">
+                    Empezar Gratis
+                </a>
+            </nav>
+        </div>
+    </header>
+    <main>
+
+<div class="min-h-[calc(100vh-64px)] flex items-center justify-center py-12 bg-light">
+    <div class="w-full max-w-4xl px-4">
+        <div class="bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 flex flex-col md:flex-row">
+            
+            <!-- Sidebar / Info -->
+            <div class="md:w-2/5 bg-primary p-8 text-white flex flex-col justify-between relative overflow-hidden">
+                <div class="relative z-10">
+                    <div class="bg-white/20 w-12 h-12 rounded-xl flex items-center justify-center mb-6 backdrop-blur-sm">
+                        <i data-lucide="sparkles" class="text-accent" width="24" height="24"></i>
+                    </div>
+                    <h2 class="text-3xl font-bold mb-4">Únete a nuestra comunidad</h2>
+                    <p class="text-white/80 leading-relaxed">
+                        Crea tu cuenta hoy y empieza a disfrutar de una experiencia educativa diseñada para conectar culturas.
+                    </p>
+                </div>
+
+                <div class="relative z-10 mt-8 space-y-4">
+                    <div class="flex items-center gap-3">
+                        <div class="bg-secondary/20 p-2 rounded-full">
+                            <i data-lucide="check" width="16" height="16" class="text-secondary"></i>
+                        </div>
+                        <span class="text-sm font-medium">Seguimiento en tiempo real</span>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <div class="bg-secondary/20 p-2 rounded-full">
+                            <i data-lucide="check" width="16" height="16" class="text-secondary"></i>
+                        </div>
+                        <span class="text-sm font-medium">Contenido cultural adaptado</span>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <div class="bg-secondary/20 p-2 rounded-full">
+                            <i data-lucide="check" width="16" height="16" class="text-secondary"></i>
+                        </div>
+                        <span class="text-sm font-medium">Gamificación para niños</span>
+                    </div>
+                </div>
+
+                <!-- Decoración de fondo -->
+                <div class="absolute top-0 right-0 -mr-16 -mt-16 w-64 h-64 rounded-full bg-white/5 blur-3xl"></div>
+                <div class="absolute bottom-0 left-0 -ml-16 -mb-16 w-64 h-64 rounded-full bg-accent/20 blur-3xl"></div>
+            </div>
+
+            <!-- Formulario -->
+            <div class="md:w-3/5 p-8 md:p-12">
+                <div class="mb-8">
+                    <h1 class="text-2xl font-bold text-dark mb-2">Crear Cuenta</h1>
+                    <p class="text-dark/60 text-sm">Selecciona tu perfil para comenzar</p>
+                </div>
+
+                <!-- Selector de Rol -->
+                <div class="grid grid-cols-2 gap-4 mb-8">
+                    <label class="cursor-pointer relative">
+                        <input type="radio" name="role" value="teacher" class="peer sr-only" checked onchange="toggleRole('teacher')">
+                        <div class="p-4 rounded-xl border-2 border-gray-100 hover:border-primary/30 peer-checked:border-primary peer-checked:bg-primary/5 transition-all text-center h-full">
+                            <i data-lucide="graduation-cap" class="mx-auto mb-2 text-dark/40 peer-checked:text-primary" width="24" height="24"></i>
+                            <span class="block text-sm font-bold text-dark/60 peer-checked:text-primary">Soy Docente</span>
+                        </div>
+                    </label>
+                    <label class="cursor-pointer relative">
+                        <input type="radio" name="role" value="parent" class="peer sr-only" onchange="toggleRole('parent')">
+                        <div class="p-4 rounded-xl border-2 border-gray-100 hover:border-secondary/50 peer-checked:border-secondary peer-checked:bg-secondary/10 transition-all text-center h-full">
+                            <i data-lucide="users" class="mx-auto mb-2 text-dark/40 peer-checked:text-secondary-dark" width="24" height="24"></i>
+                            <span class="block text-sm font-bold text-dark/60 peer-checked:text-dark">Soy Padre/Madre</span>
+                        </div>
+                    </label>
+                </div>
+
+                <form onsubmit="handleRegister(event)" class="space-y-5">
+                    <div class="grid grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-dark/80 mb-2">Nombre</label>
+                            <input type="text" class="block w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors bg-light/30" required>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-dark/80 mb-2">Apellido</label>
+                            <input type="text" class="block w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors bg-light/30" required>
+                        </div>
+                    </div>
+
+                    <div>
+                        <label class="block text-sm font-medium text-dark/80 mb-2">Correo Electrónico</label>
+                        <input type="email" class="block w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors bg-light/30" required>
+                    </div>
+
+                    <div>
+                        <label class="block text-sm font-medium text-dark/80 mb-2">Contraseña</label>
+                        <input type="password" class="block w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors bg-light/30" required>
+                        <p class="mt-1 text-xs text-dark/40">Mínimo 8 caracteres</p>
+                    </div>
+
+                    <div id="teacher-fields" class="animate-fade-in">
+                        <label class="block text-sm font-medium text-dark/80 mb-2">Nombre de la Escuela (Opcional)</label>
+                        <input type="text" class="block w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary/20 focus:border-primary transition-colors bg-light/30">
+                    </div>
+
+                    <div class="flex items-start gap-3 pt-2">
+                        <input type="checkbox" id="terms" class="mt-1 rounded border-gray-300 text-primary focus:ring-primary" required>
+                        <label for="terms" class="text-sm text-dark/60">
+                            Acepto los <a href="#" class="text-primary hover:underline">Términos de Servicio</a> y la <a href="#" class="text-primary hover:underline">Política de Privacidad</a>.
+                        </label>
+                    </div>
+
+                    <button type="submit" class="w-full flex justify-center py-3 px-4 border border-transparent rounded-xl shadow-sm text-sm font-bold text-white bg-dark hover:bg-dark/90 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-dark transition-all mt-4">
+                        Crear Cuenta
+                    </button>
+                </form>
+
+                <div class="mt-6 text-center">
+                    <p class="text-sm text-dark/60">
+                        ¿Ya tienes cuenta? 
+                        <a href="login.html" class="font-bold text-primary hover:text-primary/80">Inicia Sesión</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function toggleRole(role) {
+        const teacherFields = document.getElementById('teacher-fields');
+        if (role === 'teacher') {
+            teacherFields.classList.remove('hidden');
+        } else {
+            teacherFields.classList.add('hidden');
+        }
+    }
+
+    function handleRegister(e) {
+        e.preventDefault();
+        const role = document.querySelector('input[name="role"]:checked').value;
+        if (role === 'teacher') {
+            window.location.href = 'teacher.html';
+        } else {
+            window.location.href = 'parent.html';
+        }
+    }
+</script>
+
+    </main>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
